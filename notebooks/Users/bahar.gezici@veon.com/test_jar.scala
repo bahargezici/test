@@ -6,3 +6,4 @@ import databricks.examples.ExampleClass
 // MAGIC %python
 // MAGIC from datetime import datetime, timedelta
 // MAGIC print(datetime.today())
+// MAGIC print(datetime.min.time())
